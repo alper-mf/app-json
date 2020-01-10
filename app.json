@@ -58,17 +58,7 @@
       "visibility": true,
 	  "ButtonAnimation": false
     },
-	       {
-      "id": "7",
-      "name": "Songs",
-	  "urlAdresi":"https://superkidstube.com/stories/kids-song/",
-	  "noAdsurl":"https://superkidstube.com/stories/kids-song/",
-      "img": "https://lh3.googleusercontent.com/wXbWdRMhEb2_D0I5zQQIvysIHlo5dO4tAlo8oE8MvqjRVL54FsGHAr10pKnwCA8D2yMoUVhNMtxt1oPPj4PEWwAaZmzVNQ5dCfiQL59SP0kceVsSctXOeIE9wjl_fJrut0ojozU9onal1xMq8Kom5uLPyqyonWpWdgLqPJsyZC-ZyTdOWMkKf_PHgXZ8O3zzZe_0BQozMIwZBciNtWhYaBAKRoci3FYELoQ6ePJBX85QiJyY_9L_Up8ZMizutFgOWJTESEqKYCTYdfyCqcBfNhl3cVru1GpX9c--CFCoYJSLyFs71G6_hKRenOBEagEyC96TEkr-mIrzOdClRSVAm6zm9R_qY0GZtKbFtLZcVO-LGqGF5lt0w-XptAnlFlUHtSMgdEoX60mR3vpPBQiwGywxSPqO8PL9U80Qe0LoDGBRW50k0jFAwByEj5nJtiGEz7s3OBqEr0JNz34UC2mrHAfmWuXZLi0dkFG1XcZ6kLCxdh3JCE4IUZWhne7pas-ZGGotJDH99BYdutbRtwOVjsrrtGreDNTuhpZMngT2q4e-siX5FBYtjQosk-_OY1TQpDJSkXKn1fGeMNlVJIegE9ps1b_S7awFCRDd7Z03dgG8HAk5WfGdcTjPM7_Ql5QLyW2Im0nm452yTw8wGInibuQv6moGqHQXyiYKWLfKg-_lVRYfuN1AI8LzVBnSd-b1cXQFmSO9Mo-0-JGAPZD6ilSEZ_0ZEb5rPRA8Ov_isv3fhhV_=s512-no",
-      "reklam": true,
-      "visibility": false,
-	  "ButtonAnimation": false
-    },
-	
+	      
 	
      {
       "id": "6",
