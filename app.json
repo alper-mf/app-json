@@ -1,6 +1,6 @@
-[
-
-    {
+{
+  "appList": [
+  {
       "id": "1",
       "name": "Games",
 	  "urlAdresi": "https://superkidstube.com/stories/kids-games/",
@@ -70,6 +70,5 @@
       "visibility": true,
 	  "ButtonAnimation": false
     }
-	
-  
-]
+  ]
+}
