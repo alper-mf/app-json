@@ -1,5 +1,5 @@
 [
-  {"apps":[
+
     {
       "id": "1",
       "name": "Games",
@@ -70,7 +70,6 @@
       "visibility": true,
 	  "ButtonAnimation": false
     }
-	]
-	}
+	
   
 ]
