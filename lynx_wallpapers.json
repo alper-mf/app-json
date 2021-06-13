@@ -1,0 +1,29 @@
+{
+  "wallpapers":[
+    {
+      "id":1,
+      "url" :"https://i.pinimg.com/originals/7e/aa/85/7eaa850dc097c45a620ea075e2e9fda7.jpg",
+      "by": "Tami Wooden"
+    },
+    {
+      "id":2,
+      "url": "https://wallpaperboat.com/wp-content/uploads/2019/09/480-800-mountain-forest-landscape-1.jpg",
+      "by" : " "
+    },
+    {
+      "id":3,
+      "url": "https://lh3.googleusercontent.com/proxy/xewfTxEYzAvnwg6Y_0jo5tZLtRyHru2elhL4Rw9tohiDZUDDiYpu5nfJx2INbGyAbxp_w9Zboar4TalgkFUEV78yf1fJ1-NKO4lT6y4Tkt1tO0b_Vg7EB2cFXY7DVgV6EqfTfuM",
+      "by" : ""
+    },
+    {
+      "id":4,
+      "url": "https://cdn-0.idownloadblog.com/wp-content/uploads/2018/08/iPhone-XS-marketing-wallpaper.jpg",
+      "by" : ""
+    },
+    {
+      "id":5,
+      "url": "https://wallpaperaccess.com/full/1445638.jpg",
+      "by" : ""
+    }
+    ]
+}
