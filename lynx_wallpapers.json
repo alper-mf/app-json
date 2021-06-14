@@ -8,22 +8,37 @@
     {
       "id":2,
       "url": "https://wallpaperboat.com/wp-content/uploads/2019/09/480-800-mountain-forest-landscape-1.jpg",
-      "by" : " "
+      "by" : "Mountain Forest"
     },
     {
       "id":3,
       "url": "https://r1.ilikewallpaper.net/iphone-12-pro-wallpapers/download-105647/blue-bird-perch-on-brown-tree.jpg",
-      "by" : ""
+      "by" : "Blue Bird"
     },
     {
       "id":4,
       "url": "https://cdn-0.idownloadblog.com/wp-content/uploads/2018/08/iPhone-XS-marketing-wallpaper.jpg",
-      "by" : ""
+      "by" : "IOS Black Wallpaper"
     },
     {
       "id":5,
       "url": "https://wallpaperaccess.com/full/1445638.jpg",
-      "by" : ""
+      "by" : "Galata Tower"
+    },
+    {
+      "id":6,
+      "url": "https://images.unsplash.com/photo-1564311235011-b8d899655657?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTJ8fHxlbnwwfHx8fA%3D%3D&w=1000&q=80",
+      "by" : "Owl"
+    },
+    {
+      "id":7,
+      "url": "https://wallpapercave.com/wp/wp6961696.jpg0",
+      "by" : "Elephant"
+    },
+    {
+      "id":8,
+      "url": "https://i.pinimg.com/originals/8b/09/94/8b09945ed2f4eb8b08949e8cd158c2dd.jpg",
+      "by" : "Golden Gate"
     }
     ]
 }
